@@ -1,0 +1,164 @@
+(ExpressProject "Line_Tracking_mouse"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\mouse_schematics.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\line_tracking_mouse.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GND
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("OPTO ISOLATOR"
+      (FullPartName "OPTO ISOLATOR.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PS2701-1/SM
+      (FullPartName "PS2701-1/SM.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CONN PCB 5"
+      (FullPartName "CONN PCB 5.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (EM78P156EP
+      (FullPartName "EM78P156EP.Normal")
+      (LibraryName
+         "C:\USERS\PAVEL PETR¡»EK\ONEDRIVE\PROJECTS\LINETRACKINGMOUSE\MOUSE_SCHEMATICS.OLB")
+      (DeviceIndex "0"))
+    (Motor
+      (FullPartName "Motor.Normal")
+      (LibraryName
+         "C:\USERS\PAVEL PETR¡»EK\ONEDRIVE\PROJECTS\LINETRACKINGMOUSE\MOUSE_SCHEMATICS.OLB")
+      (DeviceIndex "0"))
+    (1R1001
+      (FullPartName "1R1001.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("CONN PCB 5-R"
+      (FullPartName "CONN PCB 5-R.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN FLEX 5"
+      (FullPartName "CONN FLEX 5.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN DSUBHD 15-P"
+      (FullPartName "CONN DSUBHD 15-PA.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("4 HEADER"
+      (FullPartName "4 HEADER.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (JUMPER5
+      (FullPartName "JUMPER5.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (TR_2_IS_N_A
+      (FullPartName "TR_2_IS_N_A.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (MICROPHONE
+      (FullPartName "MICROPHONE.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (BATTERY
+      (FullPartName "BATTERY.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (SW_PB_SPST
+      (FullPartName "SW_PB_SPST.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\Pavel Petr·Ëek\OneDrive\Projects\LineTrackingMouse")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\line_tracking_mouse.dsn")
+      (Path "Design Resources" ".\line_tracking_mouse.dsn" "MouseSchemes")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\mouse_schematics.olb")
+      (Select "Design Resources" "Library" ".\mouse_schematics.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 -8 244 0 267"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1205 52 304")
+        (Scroll "-166 -1")
+        (Zoom "62")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PAVEL PETR¡»EK\ONEDRIVE\PROJECTS\LINETRACKINGMOUSE\LINE_TRACKING_MOUSE.DSN")
+      (Schematic "MouseSchemes")
+      (Page "MouseBodyScheme"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1231 78 330")
+        (Scroll "0 248")
+        (Zoom "124")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PAVEL PETR¡»EK\ONEDRIVE\PROJECTS\LINETRACKINGMOUSE\LINE_TRACKING_MOUSE.DSN")
+      (Schematic "MouseSchemes")
+      (Page "MouseHeadScheme")))
+  (MPSSessionName "Pavel_Petr·Ëek"))
