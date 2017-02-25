@@ -1,0 +1,121 @@
+\t (00:00:18) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:18)     Journal start - Sat Feb 25 20:47:16 2017
+\t (00:00:18)         Host=DESKTOP-TA7SM77 User=Pavel Petráèek Pid=5948 CPUs=4
+\t (00:00:18) CmdLine= C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\allegro.exe -orcad
+\t (00:00:18) 
+\d (00:00:18) Design opened: C:/Users/Pavel Petráèek/OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd
+\i (00:00:18) generaledit 
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 38.806 -27.548
+\i (00:00:19) trapsize 1129
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 37.451 -27.547
+\i (00:00:19) trapsize 2258
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 117.687 -7.867
+\t (00:00:19) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (00:00:19) trapsize 4516
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 335.375 84.266
+\i (00:00:19) trapsize 6049
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 18.558 -21.365
+\i (00:00:20) trapsize 3024
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 15.949 -24.389
+\i (00:00:20) trapsize 1512
+\i (00:00:21) roam start
+\i (00:00:21) roam x 32
+\i (00:00:21) roam y -32
+\i (00:00:21) roam x 32
+\i (00:00:21) roam y -48
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x 48
+\i (00:00:21) roam y -32
+\i (00:00:22) roam x 16
+\i (00:00:22) roam x -32
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -32
+\i (00:00:22) roam y 32
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 32
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -32
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam end
+\i (00:00:25) done 
+\i (00:00:25) place manual 
+\i (00:00:25) FORM plc_manual placement_list 
+\i (00:00:25) FORM plc_manual categories Components by refdes 
+\i (00:00:25) trapsize 1512
+\i (00:00:26) setwindow form.plc_manual
+\i (00:00:26) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:27) FORM plc_manual cancel  
+\i (00:00:28) setwindow pcb
+\i (00:00:28) generaledit 
+\i (00:00:29) roam start
+\i (00:00:29) roam x 16
+\i (00:00:29) roam x -128
+\i (00:00:29) roam y 16
+\i (00:00:29) roam end
+\i (00:00:55) pick grid 138.325 -38.907
+\t (00:00:55) last pick:  137.160 -38.100
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 126.227 -37.999
+\i (00:00:55) trapsize 3024
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 298.621 20.978
+\i (00:00:55) trapsize 6049
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 694.823 141.955
+\i (00:00:56) trapsize 6049
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 694.823 141.955
+\i (00:00:56) trapsize 6049
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in -15.316 -58.868
+\i (00:00:56) trapsize 3024
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in -15.316 -58.868
+\i (00:00:56) trapsize 1512
+\i (00:00:57) zoom in 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom in -15.316 -58.868
+\i (00:00:57) trapsize 756
+\i (00:00:58) exit 
+\e (00:00:58) Do you want to save the changes you made to deska_zakladni.brd?
+\i (00:01:00) fillin no 
+\t (00:01:00)     Journal end - Sat Feb 25 20:47:58 2017

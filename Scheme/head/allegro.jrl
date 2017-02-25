@@ -1,0 +1,56 @@
+\t (00:00:01) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:01)     Journal start - Sat Feb 25 20:59:56 2017
+\t (00:00:01)         Host=DESKTOP-TA7SM77 User=Pavel Petr·Ëek Pid=8180 CPUs=4
+\t (00:00:01) CmdLine= C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\allegro.exe -orcad -mpssession Pavel_Petr·Ëek C:\USERS\PAVEL PETR¡»EK\ONEDRIVE\PÿEDMÃTY\APE\LINETRACKINGMOUSE\SCHEME\head\HEAD.brd
+\t (00:00:01) 
+   (00:00:01) *WARNING* (reader): string terminated by illegal char \341 at line 1 of string "...h ". C:/Users/Pavel Petr·"
+   (00:00:01) 
+   (00:00:01) (setSkillPath ". C:/Users/Pavel Petr·Ëek/AppData/Roaming/SPB_16.6/pcbenv C:/OrCAD/OrCAD_16.6_Lite/share/local/pcb/skill C:/OrCAD/OrCAD_16.6_Lite/share/pcb/etc")
+   (00:00:01)                                         ^
+   (00:00:01) SYNTAX ERROR found at line 1 column 41 of file *string*
+   (00:00:01) *Error* lineread/read: syntax error encountered in input
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: C:/USERS/PAVEL PETR¡»EK/ONEDRIVE/PÿEDMÃTY/APE/LINETRACKINGMOUSE/SCHEME/head/HEAD.brd
+\i (00:00:01) trapsize 267
+\i (00:00:01) trapsize 260
+\i (00:00:01) trapsize 269
+\i (00:00:02) trapsize 224
+\i (00:00:02) trapsize 285
+\i (00:00:02) generaledit 
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 31.901 11.042
+\i (00:00:03) trapsize 570
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 25.971 10.815
+\t (00:00:04) Grids are drawn 1.000, 1.000 apart for enhanced viewability.
+\i (00:00:04) trapsize 1140
+\i (00:00:04) zoom out 1 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom out 49.144 10.815
+\t (00:00:04) Grids are drawn 2.000, 2.000 apart for enhanced viewability.
+\i (00:00:04) trapsize 2280
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 29.532 3.517
+\t (00:00:05) Grids are drawn 1.000, 1.000 apart for enhanced viewability.
+\i (00:00:05) trapsize 1140
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 29.532 3.517
+\i (00:00:05) trapsize 570
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in 29.532 3.518
+\i (00:00:05) trapsize 285
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 25.542 4.430
+\i (00:00:05) trapsize 570
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 22.235 4.887
+\i (00:00:05) trapsize 1140
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Sat Feb 25 21:00:02 2017

@@ -1,0 +1,460 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Feb-25-2017 at 21:00:43 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='LINE_TRACKING_MOUSE';
+ POST_TIME='Aug  3 2015 18:16:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ BT1 'BATTERY_JUMPER2_BATTERY':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS555@DISCRETE.BATTERY.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins555@discrete.\battery.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins555@discrete.\battery.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'C_CAPCK06_104':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS277@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins277@discrete.\c.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins277@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAPCK06_104':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS293@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins293@discrete.\c.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins293@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_CAPCK06_11PF':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS2326@DISCRETE.C.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins2326@discrete.\c.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins2326@discrete.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP POL_CAPCK06_100UF':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS2370@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins2370@discrete.\cap pol.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins2370@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_DIODE_1N4004':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS375@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins375@discrete.\diode.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins375@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LEDKA_RED':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS400@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins400@discrete.\led.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins400@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LEDKA_RED':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS416@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins416@discrete.\led.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins416@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LEDKA_RED':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS432@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins432@discrete.\led.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins432@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_LEDKA_GREEN':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS489@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins489@discrete.\led.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins489@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_LEDKA_GREEN':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS505@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins505@discrete.\led.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins505@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN PCB 5-R_HEADER_5_5_PINS_18':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS1104@CONNECTOR.CONN PCB 5-R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins1104@connector.\conn pcb 5-r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins1104@connector.\conn pcb 5-r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'MOTOR_JUMPER2_RIGHT MOTOR':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS5943@MOUSE_SCHEMATICS.MOTOR.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins5943@mouse_schematics.\motor.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins5943@mouse_schematics.\motor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'MOTOR_JUMPER2_LEFT MOTOR':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS5971@MOUSE_SCHEMATICS.MOTOR.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins5971@mouse_schematics.\motor.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins5971@mouse_schematics.\motor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CONN PCB 5_HEADER_5_5_PINS_180_':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS7234@CONNECTOR.CONN PCB 5.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins7234@connector.\conn pcb 5.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page2_ins7234@connector.\conn pcb 5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MK1 'MICROPHONE_MICROPHONE_MICROPHON':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS580@ELECTROMECHANICAL.MICROPHONE.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins580@electromechanical.\microphone.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins580@electromechanical.\microphone.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '1R1001_TO92_C1815':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS4233@TRANSISTOR.1R1001.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins4233@transistor.\1r1001.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins4233@transistor.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 '1R1001_TO92_C1815':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS4414@TRANSISTOR.1R1001.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins4414@transistor.\1r1001.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins4414@transistor.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 '1R1001_TO92_C1815':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS4456@TRANSISTOR.1R1001.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins4456@transistor.\1r1001.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins4456@transistor.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 '1R1001_TO92_8050':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS4498@TRANSISTOR.1R1001.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins4498@transistor.\1r1001.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins4498@transistor.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 '1R1001_TO92_8050':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS4586@TRANSISTOR.1R1001.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins4586@transistor.\1r1001.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins4586@transistor.\1r1001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_ODPOR_560R':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS35@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins35@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins35@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_ODPOR_3.3K':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS179@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins179@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins179@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_ODPOR_220R':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS195@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins195@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins195@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_ODPOR_220R':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS211@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins211@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins211@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_ODPOR_100K':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS227@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins227@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins227@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_ODPOR_220R':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS8217@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins8217@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page2_ins8217@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_ODPOR_220R':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS8233@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins8233@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page2_ins8233@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_ODPOR_220R':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS8249@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins8249@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page2_ins8249@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_ODPOR_33K':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS8265@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins8265@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page2_ins8265@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_ODPOR_33K':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS8281@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins8281@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page2_ins8281@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_ODPOR_33K':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS8297@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins8297@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page2_ins8297@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_ODPOR_10K':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS51@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins51@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins51@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_ODPOR_3.3M':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS67@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins67@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins67@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_ODPOR_56K':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS83@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins83@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins83@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_ODPOR_220R':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS99@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins99@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins99@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_ODPOR_220R':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS115@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins115@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins115@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_ODPOR_330R':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS131@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins131@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins131@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_ODPOR_330R':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS147@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins147@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins147@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_ODPOR_330R':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS163@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins163@discrete.\r.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins163@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW_PB_SPST_JUMPER3_POWER SW':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS530@DISCRETE.SW_PB_SPST.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins530@discrete.\sw_pb_spst.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins530@discrete.\sw_pb_spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'EM78P156EP_DIP18_3_EM78P156EP':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS6433@MOUSE_SCHEMATICS.EM78P156EP.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins6433@mouse_schematics.\em78p156ep.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page1_ins6433@mouse_schematics.\em78p156ep.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'OPTO ISOLATOR_3_LTH_1550-01_LTH':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS7328@LINE_TRACKING_MOUSE.OPTO ISOLATOR_3.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins7328@line_tracking_mouse.\opto isolator_3.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page2_ins7328@line_tracking_mouse.\opto isolator_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'OPTO ISOLATOR_3_LTH_1550-01_LTH':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS8313@LINE_TRACKING_MOUSE.OPTO ISOLATOR_3.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins8313@line_tracking_mouse.\opto isolator_3.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page2_ins8313@line_tracking_mouse.\opto isolator_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'OPTO ISOLATOR_3_LTH_1550-01_LTH':;
+
+SECTION_NUMBER 1
+ '@LINE_TRACKING_MOUSE.MOUSESCHEMES(SCH_1):INS8347@LINE_TRACKING_MOUSE.OPTO ISOLATOR_3.NORMAL(CHIPS)':
+ C_PATH='@line_tracking_mouse.mouseschemes(sch_1):ins8347@line_tracking_mouse.\opto isolator_3.normal\(chips)',
+ P_PATH='@line_tracking_mouse.mouseschemes(sch_1):page2_ins8347@line_tracking_mouse.\opto isolator_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

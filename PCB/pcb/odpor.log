@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : odpor.dra                                     )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Sat Jan 26 11:54:11 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols
+    Name      = odpor.psm
+    User      = Martin
+    Machine   = HLINOVSKY-NB
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

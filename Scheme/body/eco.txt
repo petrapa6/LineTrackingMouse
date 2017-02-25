@@ -1,0 +1,320 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
+|                                                    Sat Feb 25 21:00:47 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND          pins ADDED TO this new net
+                                 BT1.2          C1.2           C3.2           
+                                 C4.2           D2.1           D3.1           
+                                 D4.1           D5.1           D6.1           
+                                 J1.5           J4.5           MK1.1          
+                                 Q1.3           Q4.3           Q5.3           
+                                 R1.2           U1.3           U2.2           
+                                 U2.3           U3.2           U3.3           
+                                 U4.2           U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01126       pins ADDED TO this new net
+                                 C3.1           R10.1          U1.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01130       pins ADDED TO this new net
+                                 C1.1           R13.2          U1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01134       pins ADDED TO this new net
+                                 D4.2           R7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01138       pins ADDED TO this new net
+                                 D2.2           R8.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01142       pins ADDED TO this new net
+                                 D3.2           R9.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01146       pins ADDED TO this new net
+                                 D1.2           J1.1           SW1.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01150       pins ADDED TO this new net
+                                 BT1.1          J2.1           J3.1           
+                                 SW1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01157       pins ADDED TO this new net
+                                 C4.1           D1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01166       pins ADDED TO this new net
+                                 C2.1           MK1.2          R1.1           
+                                 R4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01189       pins ADDED TO this new net
+                                 C2.2           Q1.1           R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01198       pins ADDED TO this new net
+                                 Q1.2           R2.2           U1.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
+|                                                    Sat Feb 25 21:00:47 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N01250       pins ADDED TO this new net
+                                 Q2.1           R5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01254       pins ADDED TO this new net
+                                 D5.2           R12.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01267       pins ADDED TO this new net
+                                 Q3.1           R6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01271       pins ADDED TO this new net
+                                 Q3.3           Q5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01286       pins ADDED TO this new net
+                                 J3.2           Q3.2           Q5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01298       pins ADDED TO this new net
+                                 Q2.3           Q4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01305       pins ADDED TO this new net
+                                 J2.2           Q2.2           Q4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01562       pins ADDED TO this new net
+                                 R12.2          U1.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01583       pins ADDED TO this new net
+                                 R5.1           R11.2          U1.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N002050      pins ADDED TO this new net
+                                 D6.2           R11.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06854       pins ADDED TO this new net
+                                 R9.2           U1.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06861       pins ADDED TO this new net
+                                 R8.2           U1.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06873       pins ADDED TO this new net
+                                 R7.2           U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06952       pins ADDED TO this new net
+                                 J1.2           U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06956       pins ADDED TO this new net
+                                 J1.3           U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
+|                                                    Sat Feb 25 21:00:47 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N06960       pins ADDED TO this new net
+                                 J1.4           U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08367       pins ADDED TO this new net
+                                 R14.1          U2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08419       pins ADDED TO this new net
+                                 J4.3           R18.1          U3.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08431       pins ADDED TO this new net
+                                 J4.4           R19.1          U4.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08509       pins ADDED TO this new net
+                                 J4.1           R14.2          R15.2          
+                                 R16.2          R17.2          R18.2          
+                                 R19.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08533       pins ADDED TO this new net
+                                 R16.1          U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08539       pins ADDED TO this new net
+                                 R15.1          U3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08603       pins ADDED TO this new net
+                                 J4.2           R17.1          U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this new net
+                                 R2.1           R3.1           R4.1           
+                                 R10.2          R13.1          U1.14          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
+|                                                    Sat Feb 25 21:00:47 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1R1001_TO92_8050
+ 1R1001_TO92_C1815
+ BATTERY_JUMPER2_BATTERY
+ CAP POL_CAPCK06_100UF
+ CONN PCB 5-R_HEADER_5_5_PINS_18
+ CONN PCB 5_HEADER_5_5_PINS_180_
+ C_CAPCK06_104
+ C_CAPCK06_11PF
+ DIODE_DIODE_1N4004
+ EM78P156EP_DIP18_3_EM78P156EP
+ LED_LEDKA_GREEN
+ LED_LEDKA_RED
+ MICROPHONE_MICROPHONE_MICROPHON
+ MOTOR_JUMPER2_LEFT MOTOR
+ MOTOR_JUMPER2_RIGHT MOTOR
+ OPTO ISOLATOR_3_LTH_1550-01_LTH
+ R_ODPOR_100K
+ R_ODPOR_10K
+ R_ODPOR_220R
+ R_ODPOR_3.3K
+ R_ODPOR_3.3M
+ R_ODPOR_330R
+ R_ODPOR_33K
+ R_ODPOR_560R
+ R_ODPOR_56K
+ SW_PB_SPST_JUMPER3_POWER SW
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
+|                                                    Sat Feb 25 21:00:47 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BT1                 BATTERY_JUMPER2_BATTERY 
+ C1                  C_CAPCK06_104         
+ C2                  C_CAPCK06_104         
+ C3                  C_CAPCK06_11PF        
+ C4                  CAP POL_CAPCK06_100UF 
+ D1                  DIODE_DIODE_1N4004    
+ D2                  LED_LEDKA_RED         
+ D3                  LED_LEDKA_RED         
+ D4                  LED_LEDKA_RED         
+ D5                  LED_LEDKA_GREEN       
+ D6                  LED_LEDKA_GREEN       
+ J1                  CONN PCB 5-R_HEADER_5_5_PINS_18 
+ J2                  MOTOR_JUMPER2_RIGHT MOTOR 
+ J3                  MOTOR_JUMPER2_LEFT MOTOR 
+ J4                  CONN PCB 5_HEADER_5_5_PINS_180_ 
+ MK1                 MICROPHONE_MICROPHONE_MICROPHON 
+ Q1                  1R1001_TO92_C1815     
+ Q2                  1R1001_TO92_C1815     
+ Q3                  1R1001_TO92_C1815     
+ Q4                  1R1001_TO92_8050      
+ Q5                  1R1001_TO92_8050      
+ R1                  R_ODPOR_560R          
+ R2                  R_ODPOR_10K           
+ R3                  R_ODPOR_3.3M          
+ R4                  R_ODPOR_56K           
+ R5                  R_ODPOR_220R          
+ R6                  R_ODPOR_220R          
+ R7                  R_ODPOR_330R          
+ R8                  R_ODPOR_330R          
+ R9                  R_ODPOR_330R          
+ R10                 R_ODPOR_3.3K          
+ R11                 R_ODPOR_220R          
+ R12                 R_ODPOR_220R          
+ R13                 R_ODPOR_100K          
+ R14                 R_ODPOR_220R          
+ R15                 R_ODPOR_220R          
+ R16                 R_ODPOR_220R          
+ R17                 R_ODPOR_33K           
+ R18                 R_ODPOR_33K           
+ R19                 R_ODPOR_33K           
+ SW1                 SW_PB_SPST_JUMPER3_POWER SW 
+ U1                  EM78P156EP_DIP18_3_EM78P156EP 
+ U2                  OPTO ISOLATOR_3_LTH_1550-01_LTH 
+ U3                  OPTO ISOLATOR_3_LTH_1550-01_LTH 
+ U4                  OPTO ISOLATOR_3_LTH_1550-01_LTH 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
+|                                                    Sat Feb 25 21:00:47 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BT1.2                          PRIM_FILE      .\pstchip.dat
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ D3.1                           PRIM_FILE      .\pstchip.dat
+ D4.1                           PRIM_FILE      .\pstchip.dat
+ D5.1                           PRIM_FILE      .\pstchip.dat
+ D6.1                           PRIM_FILE      .\pstchip.dat
+ J1.5                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J3.2                           PRIM_FILE      .\pstchip.dat
+ J4.5                           PRIM_FILE      .\pstchip.dat
+ MK1.2                          PRIM_FILE      .\pstchip.dat
+ Q1.3                           PRIM_FILE      .\pstchip.dat
+ Q2.3                           PRIM_FILE      .\pstchip.dat
+ Q3.3                           PRIM_FILE      .\pstchip.dat
+ Q4.3                           PRIM_FILE      .\pstchip.dat
+ Q5.3                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ SW1.2                          PRIM_FILE      .\pstchip.dat
+ U1.14                          PRIM_FILE      .\pstchip.dat
+ U2.3                           PRIM_FILE      .\pstchip.dat
+ U3.3                           PRIM_FILE      .\pstchip.dat
+ U4.3                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
+|                                                    Sat Feb 25 21:00:47 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     117                                        |
+|       Comp definitions added:      26                                        |
+|       Components added      :      45                                        |
+|       Slot property added   :      45                                        |
+|                                                                              |
+|   Total ECO changes reported:     233                                        |
+|------------------------------------------------------------------------------|

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LTH_1550-01.dra                               )
+(    Software Version : 16.5P002                                      )
+(    Date/Time        : Sat Jan 26 11:52:50 2013                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.5/share/pcb/pcb_lib/symbols
+    Name      = lth_1550-01.psm
+    User      = Martin
+    Machine   = HLINOVSKY-NB
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
