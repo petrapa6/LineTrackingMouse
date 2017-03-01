@@ -36,7 +36,7 @@
        "C:\Users\Pavel Petráèek\OneDrive\Pøedmìty\APE\LineTrackingMouse\PCB\deska_zakladni.brd")
     ("Allegro Netlist Output Board File" "body\BODY.brd")
     ("Allegro Netlist Remove Etch" "FALSE")
-    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Place Changed Component" "ONLY_REPLACE")
     ("Allegro Netlist Open Board in Allegro" "ORCAD")
     ("Allegro Setup Backup Versions" "3")
     ("Allegro Setup Output Warnings" "TRUE")
@@ -239,29 +239,29 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 1 0 412 -8 -31 -8 244 0 267"))
+        (Placement "44 0 1 0 412 -8 -31 -8 244 0 267"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1205 52 304")
-        (Scroll "0 278")
-        (Zoom "112")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\LINETRACKINGMOUSE\SCHEME\LINE_TRACKING_MOUSE.DSN")
-      (Schematic "MouseSchemes")
-      (Page "MouseBodyScheme"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 785 0 310")
-        (Scroll "0 160")
+        (Placement "44 0 1 -1 -1 -8 -31 130 1257 130 454")
+        (Scroll "-54 116")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\LINETRACKINGMOUSE\SCHEME\LINE_TRACKING_MOUSE.DSN")
       (Schematic "MouseSchemes")
-      (Page "MouseHeadScheme")))
+      (Page "MouseHeadScheme"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 1205 78 402")
+        (Scroll "-127 55")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PAVEL PETRÁÈEK\ONEDRIVE\PØEDMÌTY\APE\LINETRACKINGMOUSE\SCHEME\LINE_TRACKING_MOUSE.DSN")
+      (Schematic "MouseSchemes")
+      (Page "MouseBodyScheme")))
   (MPSSessionName "Pavel_Petráèek")
   (ISPCBBASICLICENSE "false"))

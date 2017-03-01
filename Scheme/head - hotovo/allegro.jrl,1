@@ -1,0 +1,264 @@
+\t (00:00:19) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:19)     Journal start - Wed Mar 01 16:41:32 2017
+\t (00:00:19)         Host=DESKTOP-TA7SM77 User=Pavel Petráèek Pid=7244 CPUs=4
+\t (00:00:19) CmdLine= C:\OrCAD\OrCAD_16.6_Lite\tools\pcb\bin\allegro.exe -orcad
+\t (00:00:19) 
+\d (00:00:19) Design opened: C:/Users/Pavel Petráèek/OneDrive/Pøedmìty/APE/LineTrackingMouse/Scheme/head/HEAD.brd
+\i (00:00:19) generaledit 
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 8.253 10.936
+\i (00:00:21) trapsize 246
+\i (00:00:25) roam start
+\i (00:00:26) roam x -16
+\i (00:00:26) roam y -16
+\i (00:00:26) roam x -16
+\i (00:00:26) roam end
+\i (00:00:32) setwindow form.vf_vis
+\i (00:00:32) FORM vf_vis 1 all_colorvisible NO 
+\i (00:00:35) FORM vf_vis 2 all_colorvisible NO 
+\i (00:00:35) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) pick grid 33.643 9.237
+\t (00:00:36) last pick:  33.750 9.250
+\i (00:00:37) drag_start grid 33.446 8.843
+\i (00:00:37) move 
+\t (00:00:37) last pick:  30.500 8.000
+\t (00:00:37) Pick new location for the element(s).
+\i (00:00:41) drag_stop grid 23.900 10.763
+\i (00:00:41) generaledit 
+\i (00:00:43) roam start
+\i (00:00:43) roam x -16
+\i (00:00:43) roam y -16
+\i (00:00:43) roam x -16
+\i (00:00:43) roam y -32
+\i (00:00:43) roam y -16
+\i (00:00:44) roam y -32
+\i (00:00:44) roam y -16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam x 16
+\i (00:00:45) roam x 16
+\i (00:00:45) roam y 16
+\i (00:00:45) roam x 16
+\i (00:00:45) roam x 16
+\i (00:00:46) roam end
+\i (00:00:47) pick grid 24.442 17.356
+\t (00:00:47) last pick:  24.500 17.250
+\i (00:00:47) prepopup 24.442 17.356
+\i (00:00:49) pop dyn_option_select @:@Spin 
+\i (00:00:49) spin 
+\i (00:00:50) iangle -180.000
+\t (00:00:50) last angle:  270.000 Degrees
+\i (00:00:50) generaledit 
+\i (00:00:51) drag_start grid 25.918 12.878
+\i (00:00:51) move 
+\t (00:00:51) last pick:  25.250 14.750
+\t (00:00:51) Pick new location for the element(s).
+\i (00:00:52) drag_stop grid 18.881 20.702
+\i (00:00:52) generaledit 
+\i (00:00:53) pick grid 21.932 19.324
+\t (00:00:53) last pick:  22.000 19.250
+\i (00:00:53) prepopup 21.932 19.324
+\i (00:00:56) pop dyn_option_select @:@Spin 
+\i (00:00:56) spin 
+\i (00:00:57) iangle -180.000
+\t (00:00:57) last angle:  270.000 Degrees
+\i (00:00:57) generaledit 
+\i (00:00:57) drag_start grid 24.393 13.420
+\i (00:00:57) move 
+\t (00:00:58) last pick:  23.000 15.500
+\t (00:00:58) Pick new location for the element(s).
+\i (00:01:00) drag_stop grid 21.391 19.767
+\i (00:01:00) generaledit 
+\i (00:01:02) pick grid 35.513 15.781
+\t (00:01:02) last pick:  35.500 15.750
+\i (00:01:03) roam start
+\i (00:01:03) roam x 32
+\i (00:01:03) roam x 48
+\i (00:01:03) roam y 16
+\i (00:01:04) roam end
+\i (00:01:04) prepopup 36.054 17.160
+\i (00:01:06) pop dyn_option_select @:@Spin 
+\i (00:01:06) spin 
+\i (00:01:08) iangle 180.000
+\t (00:01:08) last angle:  270.000 Degrees
+\i (00:01:08) generaledit 
+\i (00:01:09) drag_start grid 37.530 8.942
+\i (00:01:09) move 
+\t (00:01:09) last pick:  36.500 13.750
+\t (00:01:09) Pick new location for the element(s).
+\i (00:01:11) drag_stop grid 34.824 20.259
+\i (00:01:12) generaledit 
+\i (00:01:12) pick grid 37.284 18.882
+\t (00:01:12) last pick:  37.250 19.000
+\i (00:01:12) prepopup 37.530 18.882
+\i (00:01:15) pop dyn_option_select @:@Spin 
+\i (00:01:15) spin 
+\i (00:01:16) iangle 180.000
+\t (00:01:16) last angle:  270.000 Degrees
+\i (00:01:16) generaledit 
+\i (00:01:16) drag_start grid 40.286 12.682
+\i (00:01:16) move 
+\t (00:01:17) last pick:  39.000 15.500
+\t (00:01:17) Pick new location for the element(s).
+\i (00:01:18) drag_stop grid 37.432 19.669
+\i (00:01:18) generaledit 
+\i (00:01:18) roam start
+\i (00:01:18) roam x 16
+\i (00:01:18) roam y 16
+\i (00:01:18) roam x 48
+\i (00:01:18) roam y 32
+\i (00:01:19) roam x 32
+\i (00:01:19) roam y 32
+\i (00:01:19) roam x -48
+\i (00:01:19) roam x -48
+\i (00:01:19) roam y -16
+\i (00:01:19) roam x -16
+\i (00:01:19) roam y -16
+\i (00:01:19) roam x -48
+\i (00:01:20) roam end
+\i (00:01:21) drag_start grid 36.841 5.498
+\i (00:01:21) move 
+\t (00:01:21) last pick:  35.250 5.000
+\t (00:01:21) Pick new location for the element(s).
+\i (00:01:23) drag_stop grid 18.438 3.480
+\i (00:01:23) generaledit 
+\i (00:01:26) roam start
+\i (00:01:26) roam y -32
+\i (00:01:27) roam y 16
+\i (00:01:27) roam x -16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:28) roam x 32
+\i (00:01:28) roam x 16
+\i (00:01:28) roam x 16
+\i (00:01:28) roam y -16
+\i (00:01:28) roam x 16
+\i (00:01:28) roam x 16
+\i (00:01:28) roam x 16
+\i (00:01:28) roam x 16
+\i (00:01:28) roam x 16
+\i (00:01:28) roam x 16
+\i (00:01:28) roam x 32
+\i (00:01:29) roam x -48
+\i (00:01:29) roam x -64
+\i (00:01:29) roam y -16
+\i (00:01:29) roam x -32
+\i (00:01:29) roam x -16
+\i (00:01:29) roam x -32
+\i (00:01:29) roam x -32
+\i (00:01:29) roam x -16
+\i (00:01:29) roam x -16
+\i (00:01:29) roam end
+\i (00:01:30) pick grid 8.253 0.577
+\t (00:01:30) last pick:  8.250 0.500
+\i (00:01:30) pick grid dbl 8.253 0.577
+\t (00:01:30) last pick:  8.250 0.500
+\i (00:01:31) pick grid 8.155 0.528
+\t (00:01:31) last pick:  8.250 0.500
+\i (00:01:31) pick grid dbl 8.155 0.528
+\t (00:01:31) last pick:  8.250 0.500
+\i (00:01:31) pick grid 8.056 0.971
+\t (00:01:31) last pick:  8.000 1.000
+\i (00:01:31) pick grid dbl 8.056 0.971
+\t (00:01:31) last pick:  8.000 1.000
+\i (00:01:31) prepopup 8.056 0.971
+\i (00:01:34) pop dyn_option_select '@:@Text edit' 
+\i (00:01:34) text edit 
+\i (00:01:43) setwindow form.textedit
+\i (00:01:43) FORM textedit str Head 
+\i (00:01:43) FORM textedit done  
+\i (00:01:43) setwindow pcb
+\i (00:01:43) pick 0.000 0.000
+\t (00:01:43) Pick text to edit.
+\i (00:01:43) setwindow pcb
+\i (00:01:43) generaledit 
+\i (00:01:47) save 
+\i (00:01:49) fillin yes 
+\i (00:01:49) generaledit 
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out 33.102 8.942
+\i (00:01:50) trapsize 492
+\i (00:01:53) setwindow form.vf_vis
+\i (00:01:53) FORM vf_vis 2 all_colorvisible YES 
+\i (00:01:54) FORM vf_vis 1 all_colorvisible NO 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom in 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom in 26.902 7.860
+\i (00:01:55) trapsize 246
+\i (00:01:56) roam start
+\i (00:01:56) roam x 32
+\i (00:01:57) roam x 32
+\i (00:01:57) roam y -16
+\i (00:01:57) roam end
+\i (00:02:02) pick grid 16.372 12.091
+\t (00:02:02) last pick:  16.250 12.000
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in 28.132 5.941
+\i (00:02:05) trapsize 123
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in 28.132 5.941
+\i (00:02:06) trapsize 62
+\i (00:02:06) zoom in 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom in 28.132 5.941
+\i (00:02:06) trapsize 31
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 28.132 5.941
+\i (00:02:07) trapsize 62
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 28.132 5.941
+\i (00:02:07) trapsize 123
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 28.132 5.941
+\i (00:02:07) trapsize 246
+\i (00:02:07) zoom out 1 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) zoom out 28.132 5.942
+\i (00:02:07) trapsize 492
+\i (00:02:09) zoom in 1 
+\i (00:02:09) setwindow pcb
+\i (00:02:09) zoom in 36.301 21.097
+\i (00:02:09) trapsize 246
+\i (00:02:10) zoom out 1 
+\i (00:02:10) setwindow pcb
+\i (00:02:10) zoom out 25.624 13.815
+\i (00:02:10) trapsize 492
+\i (00:02:13) zoom in 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom in 24.245 3.875
+\i (00:02:13) trapsize 246
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 19.571 11.600
+\i (00:02:16) trapsize 123
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 19.571 11.601
+\i (00:02:16) trapsize 62
+\i (00:02:17) zoom out 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom out 19.559 11.687
+\i (00:02:17) trapsize 123
+\i (00:02:17) zoom out 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom out 19.560 11.687
+\i (00:02:17) trapsize 246
+\i (00:02:27) open 
+\i (00:02:29) fillin "menu_cancel"
+\i (00:02:29) generaledit 
+\i (00:02:31) open 
+\i (00:02:34) fillin "C:\Users\Pavel Petráèek\OneDrive\Pøedmìty\APE\LineTrackingMouse\Scheme\body\BODY.brd"
+\i (00:02:34) cd "C:\Users\Pavel Petráèek\OneDrive\Pøedmìty\APE\LineTrackingMouse\Scheme\body"
+\t (00:02:34) Opening existing design...
+\i (00:02:35) trapsize 1129
+\t (00:02:35)     Journal end - Wed Mar 01 16:43:48 2017

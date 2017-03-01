@@ -2,8 +2,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
-|                                                    Wed Mar 01 17:16:25 2017  |
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_vystupy.brd         |
+|                                                    Sat Feb 25 20:59:52 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -58,8 +58,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
-|                                                    Wed Mar 01 17:16:25 2017  |
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_vystupy.brd         |
+|                                                    Sat Feb 25 20:59:52 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -87,7 +87,7 @@
                                  J2.2           Q2.2           Q4.2           
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N01562       pins ADDED TO this new net
-                                 R6.1           R12.2          U1.11          
+                                 R12.2          U1.11          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N01583       pins ADDED TO this new net
                                  R5.1           R11.2          U1.12          
@@ -114,8 +114,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
-|                                                    Wed Mar 01 17:16:25 2017  |
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_vystupy.brd         |
+|                                                    Sat Feb 25 20:59:52 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -154,8 +154,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
-|                                                    Wed Mar 01 17:16:25 2017  |
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_vystupy.brd         |
+|                                                    Sat Feb 25 20:59:52 2017  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -164,13 +164,13 @@
  1R1001_TO92_8050
  1R1001_TO92_C1815
  BATTERY_JUMPER2_BATTERY
- CAP POL_CAP196_100UF
+ CAP POL_CAPCK06_100UF
  CONN PCB 5-R_HEADER_5_5_PINS_18
  CONN PCB 5_HEADER_5_5_PINS_180_
  C_CAPCK06_104
  C_CAPCK06_11PF
  DIODE_DIODE_1N4004
- EM78P156EP_0_DIP18_3_EM78P156EP
+ EM78P156EP_DIP18_3_EM78P156EP
  LED_LEDKA_GREEN
  LED_LEDKA_RED
  MICROPHONE_MICROPHONE_MICROPHON
@@ -186,13 +186,13 @@
  R_ODPOR_33K
  R_ODPOR_560R
  R_ODPOR_56K
- SW_PB_SPST_JUMPER2_POWER SW
+ SW_PB_SPST_JUMPER3_POWER SW
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
-|                                                    Wed Mar 01 17:16:25 2017  |
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_vystupy.brd         |
+|                                                    Sat Feb 25 20:59:52 2017  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -202,7 +202,7 @@
  C1                  C_CAPCK06_104         
  C2                  C_CAPCK06_104         
  C3                  C_CAPCK06_11PF        
- C4                  CAP POL_CAP196_100UF  
+ C4                  CAP POL_CAPCK06_100UF 
  D1                  DIODE_DIODE_1N4004    
  D2                  LED_LEDKA_RED         
  D3                  LED_LEDKA_RED         
@@ -238,8 +238,8 @@
  R17                 R_ODPOR_33K           
  R18                 R_ODPOR_33K           
  R19                 R_ODPOR_33K           
- SW1                 SW_PB_SPST_JUMPER2_POWER SW 
- U1                  EM78P156EP_0_DIP18_3_EM78P156EP 
+ SW1                 SW_PB_SPST_JUMPER3_POWER SW 
+ U1                  EM78P156EP_DIP18_3_EM78P156EP 
  U2                  OPTO ISOLATOR_3_LTH_1550-01_LTH 
  U3                  OPTO ISOLATOR_3_LTH_1550-01_LTH 
  U4                  OPTO ISOLATOR_3_LTH_1550-01_LTH 
@@ -247,8 +247,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   6  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
-|                                                    Wed Mar 01 17:16:25 2017  |
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_vystupy.brd         |
+|                                                    Sat Feb 25 20:59:52 2017  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -303,18 +303,18 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   7  |
 |------------------------------------------------------------------------------|
-|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_zakladni.brd        |
-|                                                    Wed Mar 01 17:16:25 2017  |
+|  C:.../OneDrive/Pøedmìty/APE/LineTrackingMouse/PCB/deska_vystupy.brd         |
+|                                                    Sat Feb 25 20:59:52 2017  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to design                                              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |------------------------------------------------------------------------------|
-|       Nets changed          :     118                                        |
+|       Nets changed          :     117                                        |
 |       Comp definitions added:      26                                        |
 |       Components added      :      45                                        |
 |       Slot property added   :      45                                        |
 |                                                                              |
-|   Total ECO changes reported:     234                                        |
+|   Total ECO changes reported:     233                                        |
 |------------------------------------------------------------------------------|

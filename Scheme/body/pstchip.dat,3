@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Mar-01-2017 at 17:16:20}
+{ Using PSTWRITER 16.6.0 d001Feb-28-2017 at 19:07:20}
 primitive 'BATTERY_JUMPER2_BATTERY';
   pin
     '+':
@@ -45,7 +45,7 @@ primitive 'C_CAPCK06_11PF';
     VALUE='11pF';
   end_body;
 end_primitive;
-primitive 'CAP POL_CAP196_100UF';
+primitive 'CAP POL_CAPCK06_100UF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -56,7 +56,7 @@ primitive 'CAP POL_CAP196_100UF';
   end_pin;
   body
     PART_NAME='CAP POL';
-    JEDEC_TYPE='cap196';
+    JEDEC_TYPE='capck06';
     VALUE='100uF';
   end_body;
 end_primitive;
